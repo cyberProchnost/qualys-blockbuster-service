@@ -52,6 +52,11 @@ Create a Blockbuster service that manages BluRay Disc copies for movies. Below a
 2. Build and run the Spring Boot application.
 3. Access the REST APIs using appropriate endpoints for backoffice and main website functionalities.
 
+## Prerequisite
+
+1. Java 8
+2. Postman
+ 
 ## Repository Details
 
 The codebase for this Blockbuster service is available on [GitHub](https://github.com/cyberProchnost/qualys-blockbuster-service).
